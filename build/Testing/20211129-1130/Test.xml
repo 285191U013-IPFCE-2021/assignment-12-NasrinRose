@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20211129-1130-Experimental"
+	Name="LAPTOP-KJT5Q52L"
+	Generator="ctest-3.21.3"
+	CompilerName="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/i686-w64-mingw32-g++.exe"
+	CompilerVersion="8.1.0"
+	OSName="Windows"
+	Hostname="LAPTOP-KJT5Q52L"
+	OSRelease=" Personal"
+	OSVersion=" (Build 19042)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="0"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="16374"
+	TotalPhysicalMemory="14198"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3293"
+	>
+	<Testing>
+		<StartDateTime>Nov 29 12:39 Rom, normaltid</StartDateTime>
+		<StartTestTime>1638185986</StartTestTime>
+		<TestList>
+			<Test>./tests/usage_test</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>usage_test</Name>
+			<Path>./tests</Path>
+			<FullName>./tests/usage_test</FullName>
+			<FullCommandLine>"C:\Users\nasri\Documents\C C++\assignment-12-NasrinRose\build\tests\tests.exe"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0758201</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>"C:\Users\nasri\Documents\C C++\assignment-12-NasrinRose\build\tests\tests.exe"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DA0UwCxikoy8/OKFTLzFIzBChSSE4tTizW5uABvviOa====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Nov 29 12:39 Rom, normaltid</EndDateTime>
+		<EndTestTime>1638185987</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/nasri/Documents/C C++/assignment-12-NasrinRose/build",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\I686-W~2.EXE  @CMakeFiles/mymath.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\mymath.dir\\src\\duration.cpp.obj -c \"C:\\Users\\nasri\\Documents\\C C++\\assignment-12-NasrinRose\\src\\duration.cpp\"",
+  "file": "C:/Users/nasri/Documents/C C++/assignment-12-NasrinRose/src/duration.cpp"
+},
+{
+  "directory": "C:/Users/nasri/Documents/C C++/assignment-12-NasrinRose/build",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\I686-W~2.EXE  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c \"C:\\Users\\nasri\\Documents\\C C++\\assignment-12-NasrinRose\\src\\main.cpp\"",
+  "file": "C:/Users/nasri/Documents/C C++/assignment-12-NasrinRose/src/main.cpp"
+},
+{
+  "directory": "C:/Users/nasri/Documents/C C++/assignment-12-NasrinRose/build/tests",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\I686-W~2.EXE  @CMakeFiles/tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\tests.dir\\src\\tests.cpp.obj -c \"C:\\Users\\nasri\\Documents\\C C++\\assignment-12-NasrinRose\\tests\\src\\tests.cpp\"",
+  "file": "C:/Users/nasri/Documents/C C++/assignment-12-NasrinRose/tests/src/tests.cpp"
+}
+]

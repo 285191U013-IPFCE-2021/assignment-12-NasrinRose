@@ -1,0 +1,21 @@
+Start testing: Nov 29 12:39 Rom, normaltid
+----------------------------------------------------------
+1/1 Testing: usage_test
+1/1 Test: usage_test
+Command: "C:/Users/nasri/Documents/C C++/assignment-12-NasrinRose/build/tests/tests.exe"
+Directory: C:/Users/nasri/Documents/C C++/assignment-12-NasrinRose/build/tests
+"usage_test" start time: Nov 29 12:39 Rom, normaltid
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (16 assertions in 3 test cases)
+
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"usage_test" end time: Nov 29 12:39 Rom, normaltid
+"usage_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 29 12:39 Rom, normaltid
